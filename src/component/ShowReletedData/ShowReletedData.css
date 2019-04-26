@@ -1,0 +1,27 @@
+.ppic{
+	width: 200px;
+	height: 200px;
+}
+.ppic img{
+	width: 100%;
+	height: 100%;
+}
+.likeButton, .dislikeButton{
+	margin: 10px;
+    padding: 5px 15px;
+    border-radius: 90%;
+    border: 1px solid #000;
+    font-size: 24px;
+    display: inline-block;
+    text-align: center;
+}
+.user{
+	border: 2px dotted #000;
+}
+.name, .actionButton{
+	margin: 2px;
+	text-align: center;
+}
+.loadingIcon{
+	margin: 10px;
+}

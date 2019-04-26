@@ -1,0 +1,6 @@
+.mainApp{
+	display: flex;
+	margin: 20px 0px;
+	padding: 20px;
+	box-sizing: border-box;
+}
